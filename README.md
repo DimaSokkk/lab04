@@ -151,7 +151,7 @@ $ git remote add origin https://github.com/DimaSokkk/lab04.git
 ```
 
 Примечание! Для GitHub Actions необходимо создать директорию /.github/workflows
-
+  
 ## Part 1
 
 Теперь создадим файл сценария для Linux - Linux.yml:
